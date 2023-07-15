@@ -121,7 +121,7 @@ To run the project, execute the following command:
 
 ## ✍️ Author <a name="authors"></a>
   
-👤 **Abu Raihan**
+👤 **Lawrah Konwea**
 
 - GitHub: [@lawrahkonwea](https://github.com/rlawrahkonwea)
 - Twitter: [@lawra_xo](https://twitter.com/lwrah_xo)
