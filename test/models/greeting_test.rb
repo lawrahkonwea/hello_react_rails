@@ -2,7 +2,7 @@
 
 require 'test_helper'
 
-class GreetingsControllerTest < ActionDispatch::IntegrationTest
+class GreetingTest < ActiveSupport::TestCase
   # test "the truth" do
   #   assert true
   # end
